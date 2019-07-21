@@ -1,2 +1,2 @@
-# stock_sentiment_analyzer
-Flatiron School final project, connecting sentiment analysis with stock performance
+# Flatiron Final Project - stock sentiment
+Data gathering folder: NYT scraping notebook.
