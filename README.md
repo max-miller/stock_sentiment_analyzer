@@ -7,6 +7,7 @@ The results of these models were, at best, middling (or, in the case of Facebook
 Consider the performance of the Tesla model, illustrated below. Tesla stock dropped by more than 25% if the first half of 2019, presenting something of a challenge for a model seeking to make purchase type trades (perhaps I should try another model that can make shorts...). The Tesla model, rather smartly, doesn't make many trades over the period, and manages to come out out ahead: with $1,000, you would have made nearly $40, while a $1,000 buy and hold strategy would have lost you $260.
 
 ![Tesla model performance](https://github.com/max-miller/stock_sentiment_analyzer/blob/master/images/Tesla_performance.png?raw=true)
+
 Red lines in the chart represent dates the model suggests taking a position. Some of those were good trades and some not, but it manages to break even despite the stock price suffering over the period.
 
 
